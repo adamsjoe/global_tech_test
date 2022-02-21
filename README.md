@@ -267,7 +267,7 @@ pm.test('Check that number of launches is 100 (111 at present minus gql variable
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `PASS` Check Mission Name is not empty
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `PASS` Check that number of launches is greater than 0
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `FAIL` Check Number of ships is greater than 0
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `PASS` Check that number of launches is 2 (current gql variable)
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `PASS` Check that number of launches is 100 (111 at present minus gql variable)
 
 I have added an additional test here - it is hardcoded, which is not great.  The test is checking the number of results.  We know that we get 111 launches (at this time) and if we offset by 11 then we should get 100 launch records back.
 
