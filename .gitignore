@@ -1,0 +1,5 @@
+ui/cypress/allure-results
+ui/cypress/cypress/videos
+ui/cypress/node_modules
+
+ui/playwright/node_modules
