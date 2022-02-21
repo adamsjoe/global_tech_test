@@ -43,7 +43,14 @@
 
 ## Introduction 
 
-This repo contains both the API and the UI elements of the test.
+This repo contains both the API and the UI elements of the test.  I have made available a Jenkins Instance to facilitate running the API tests.  The UI tests are best run (at the moment) locally.
+
+To access the API tests, please navigate to http://18.132.250.17:8080/ and use the username **globalUser** and password is "**password**" (no quotes)
+
+There will be a single project available - **SpaceX Land for Global**
+
+This project will have the option to build as well as the option to view some Junit style test reports.
+
 
 ## API ##
 
